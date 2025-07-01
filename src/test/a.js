@@ -1,4 +1,3 @@
-const { textSpanIntersectsWithTextSpan } = require("typescript");
 
 class rectangulo{
     constructor(ancho,alto){
